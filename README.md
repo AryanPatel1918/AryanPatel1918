@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
-<h3 align="center">A Computer Science '25 graduate and aspiring full-stack developer based in Toronto</h3>
+<h1>Hi, I'm Aryan Patel 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpatel1918&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpatel1918" /> </p>
+<p>🎓 A Computer Science '25 graduate and aspiring full-stack developer based in Toronto</p>
+<p>🔍 Actively seeking New Graduate/Full-time SWE Opportunities</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpatel1918" alt="aryanpatel1918" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js & Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanPatel1918?tab=repositories](https://github.com/AryanPatel1918?tab=repositories)
 
-- 📫 How to reach me **aryanpatel1918@gmail.com, (647) 425-7867**
+- 📫 How to reach me: **aryanpatel1918@gmail.com, (647) 425-7867**
 
-- 📄 Know about my experiences [Resume_Aryan_Patel.pdf](Resume_Aryan_Patel.pdf)
+- 📄 Know about my experiences: [Resume_Aryan_Patel.pdf](Resume_Aryan_Patel.pdf)
 
-- ⚡ Fun fact **I love cricket!**
+- ⚡ Fun fact: **I love cricket!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
