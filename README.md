@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js & Express.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AryanPatel1918](https://github.com/AryanPatel1918)
+- 👨‍💻 All of my projects are available at [https://github.com/AryanPatel1918?tab=repositories](https://github.com/AryanPatel1918?tab=repositories)
 
-- 📫 How to reach me **aryanpatel1918@gmail.com**
+- 📫 How to reach me **aryanpatel1918@gmail.com, (647) 425-7867**
 
 - 📄 Know about my experiences [Resume_Aryan_Patel.pdf](Resume_Aryan_Patel.pdf)
 
