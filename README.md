@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: [Resume_Aryan_Patel.pdf](Resume_Aryan_Patel.pdf)
 
-- ⚡ Fun fact: **I love cricket!**
+- ⚡ Fun fact: **I love cricket!** 🏏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
