@@ -4,7 +4,7 @@
 <p>🔍 Actively seeking New Graduate/Full-time SWE Opportunities</p>
 
 
-- 🌱 I’m currently learning **Node.js & Express.js**
+- 🌱 I’m currently learning **REST API using Node.js, Express, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanPatel1918?tab=repositories](https://github.com/AryanPatel1918?tab=repositories)
 
