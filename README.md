@@ -1,10 +1,10 @@
-<h1>Hi, I'm Aryan Patel 👋</h1>
+<h1>Hi 👋, I'm Aryan Patel</h1>
 
-<p>🎓 A Computer Science '25 graduate and aspiring full-stack developer based in Toronto</p>
+<p>🎓 A CS recent graduate and aspiring full-stack developer</p>
 <p>🔍 Actively seeking New Graduate/Full-time SWE Opportunities</p>
 
 
-- 🌱 I’m currently learning **RESTful API using Node.js, Express, and MongoDB**
+- 🌱 I’m currently learning the **MERN** stack
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryanPatel1918?tab=repositories](https://github.com/AryanPatel1918?tab=repositories)
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: [Resume_Aryan_Patel.pdf](Resume_Aryan_Patel.pdf)
 
-- ⚡ Fun fact: **I love cricket!** 🏏
+- ⚡ Fun fact: **I love exercising and lifting weights!** 🏏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
