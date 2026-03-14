@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning the **MERN** stack
 - 👨‍💻 All of my projects are available at: https://github.com/AryanPatel1918?tab=repositories
 - 📫 Reach me at: **aryanpatel1918@gmail.com**, **(647) 425-7867**
-- 📄 View my resume: [Resume_Aryan_Patel.pdf](https://github.com/AryanPatel1918/Resume/blob/main/Aryan_Patel_Resume.pdf)
+- 📄 View my [resume](https://github.com/AryanPatel1918/Resume/blob/main/Aryan_Patel_Resume.pdf)
 - ⚡ Fun fact: **I love exercising and lifting weights!** 🏋️‍♂️
 
 ---
